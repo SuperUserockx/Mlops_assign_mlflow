@@ -1,0 +1,15 @@
+artifact_uri: /home/super/Documents/MLOps/mlflow/mlruns/672810219839499569/35d438fbf5b14c089e73706fbfdb2d26/artifacts
+end_time: 1727161213010
+entry_point_name: ''
+experiment_id: '672810219839499569'
+lifecycle_stage: active
+run_id: 35d438fbf5b14c089e73706fbfdb2d26
+run_name: popular-bat-598
+run_uuid: 35d438fbf5b14c089e73706fbfdb2d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727161210896
+status: 3
+tags: []
+user_id: super

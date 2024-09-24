@@ -1,0 +1,15 @@
+artifact_uri: /home/super/Documents/MLOps/mlflow/mlruns/672810219839499569/6a0196b613994665831356c23591def0/artifacts
+end_time: 1727161891023
+entry_point_name: ''
+experiment_id: '672810219839499569'
+lifecycle_stage: active
+run_id: 6a0196b613994665831356c23591def0
+run_name: smiling-rook-625
+run_uuid: 6a0196b613994665831356c23591def0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727161888922
+status: 3
+tags: []
+user_id: super

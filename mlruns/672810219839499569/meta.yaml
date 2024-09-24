@@ -1,0 +1,6 @@
+artifact_location: /home/super/Documents/MLOps/mlflow/mlruns/672810219839499569
+creation_time: 1727161210659
+experiment_id: '672810219839499569'
+last_update_time: 1727161210659
+lifecycle_stage: active
+name: Boston_Housing_Experiment

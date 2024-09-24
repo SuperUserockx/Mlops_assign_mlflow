@@ -1,0 +1,15 @@
+artifact_uri: /home/super/Documents/MLOps/mlflow/mlruns/672810219839499569/38ad3c60d0d44d9bb0107d767bae9f17/artifacts
+end_time: 1727161892879
+entry_point_name: ''
+experiment_id: '672810219839499569'
+lifecycle_stage: active
+run_id: 38ad3c60d0d44d9bb0107d767bae9f17
+run_name: lyrical-gull-771
+run_uuid: 38ad3c60d0d44d9bb0107d767bae9f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727161891025
+status: 3
+tags: []
+user_id: super

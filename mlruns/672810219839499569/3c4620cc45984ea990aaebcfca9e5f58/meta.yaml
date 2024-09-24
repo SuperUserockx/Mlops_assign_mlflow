@@ -1,0 +1,15 @@
+artifact_uri: /home/super/Documents/MLOps/mlflow/mlruns/672810219839499569/3c4620cc45984ea990aaebcfca9e5f58/artifacts
+end_time: 1727161214879
+entry_point_name: ''
+experiment_id: '672810219839499569'
+lifecycle_stage: active
+run_id: 3c4620cc45984ea990aaebcfca9e5f58
+run_name: dapper-lark-249
+run_uuid: 3c4620cc45984ea990aaebcfca9e5f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727161213012
+status: 3
+tags: []
+user_id: super
